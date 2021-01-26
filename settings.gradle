@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Conahan_Cormac_github_workflow"
